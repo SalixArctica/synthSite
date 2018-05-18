@@ -1,0 +1,38 @@
+/* header styles */
+#header {
+  display: flex;
+  flex-direction: row;
+}
+
+#showMenuBtn{
+  background-color: inherit;
+  color: inherit;
+}
+
+header{
+  background-color: black;
+  color: white;
+}
+
+#menuButtons{
+  text-align: center;
+  border
+  border-color: grey;
+}
+/* end header styles */
+
+/* global styles */
+body{
+  background-color: grey;
+  color: white
+}
+
+ul{
+  list-style-type: none;
+}
+/* end global styles */
+
+#synths{
+  display: flex;
+  text
+}
